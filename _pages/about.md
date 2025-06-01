@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bât 709, pièce 224 </p>
@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+***Fabrizio Gentile, PhD***
 
 I am a postdoctoral researcher at the Departement d'Astrophysique of the CEA Paris-Saclay. My research mainly focuses on the evolution of galaxies, trying to understand how these objects evolved from the Big Bang to the current time.
 
