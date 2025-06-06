@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 3 with very long name
+title: Strong gravitational lensing
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com
