@@ -94,13 +94,13 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Euclid/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
+            },},{id: "projects-strong-gravitational-lensing",
+          title: 'Strong gravitational lensing',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Lensing/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
+            },},{id: "projects-dark-galaxies",
+          title: 'Dark galaxies',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RSND/";
